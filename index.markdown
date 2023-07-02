@@ -4,3 +4,28 @@
 
 layout: home
 ---
+**The Digital Diversity Living Lab is a place to develop and share both practice and tools that make digital services, and the IT profession itself, accessible to a wider range of people.**
+
+Technology has huge capacity to both help or hinder marginalised and minoritised people. The intent of this space is to make it as positive a force as possible. The DDLL exists to support a vibrant digital social innovation ecosystem, involving a wider range of stakeholders to co-produce solutions to complex, messy problems that go beyond technology.
+
+Following the model of many Open Source projects, we are hosted on Github, and we have a Discord server where you can meet and chat with other members. This website itself is hosted on Github Pages, and we welcome PRs to add further content to it.
+
+## Why a "living lab"?
+
+A Living Lab is a space for open innovation, where people from different backgrounds can co-create solutions to problems that affect them. Living Labs typically involve individuals with a particular interest and/or lived experience, alongside public bodies, academic institutions, non-profits and commercial companies.
+
+The goal of a Living Lab is to bring together the skills and knowledge from a wide range of participants, facilitating and orchestrating the development of new approaches to otherwise intractable problems.
+
+## What are you actually doing?
+
+At the moment, DDLL is setting itself up. We are building the tools necessary to create a digital community that works for as many people as possible. We are particularly focused on better collaboration and interoperability, as we've identified that as one of the major barriers to digital engagement and co-production. In the longer run, we hope to address wider issues including accessible design, usability and funding.
+
+## How can I get involved?
+
+We're welcome to any offers to get involved in any way you would like. Some possible examples:
+
+- Contribute to one of the software projects withing DDLL
+- Contribute to the documentation, share a post, or participate in the Discord conversation
+- Volunteer for a role in organising the work the DDLL does
+- Suggest a project you would like to run within DDLL
+- Sponsor DDLL itself, or a project within it
