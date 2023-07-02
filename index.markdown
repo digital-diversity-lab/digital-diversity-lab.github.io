@@ -29,3 +29,5 @@ We're welcome to any offers to get involved in any way you would like. Some poss
 - Volunteer for a role in organising the work the DDLL does
 - Suggest a project you would like to run within DDLL
 - Sponsor DDLL itself, or a project within it
+
+You can also [join the community on Discord](https://discord.gg/jHEMFRjNV7).
