@@ -1,7 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 ### Ensuring digital technology can serve the underserved through lived experience and understanding overlooked needs in their environment.
 
 The Digital Diversity Living Lab is a place to research the micro-level of individual subjective experience, the macro-level of their context and problem domain as systems and apply this to co-design of digital products and services to augment self-expression and develop auyonomy within the world.
