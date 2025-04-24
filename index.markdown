@@ -5,22 +5,23 @@
 layout: home
 ---
 
-### *Realising the potential of digital technology to improve diversity, and of diversity to improve digital technology.*
+### *Ensuring digital technology can serve the underserved through lived experience and understanding overlooked needs in their environment.*
 
-**The Digital Diversity Living Lab is a place to develop and share both practice and tools that make digital services, and the IT profession itself, accessible to a wider range of people.**
+**The Digital Diversity Living Lab is a place to research the micro-level of individual subjective experience, the macro-level of their context and problem domain as systems and apply this to co-design of digital products and services to augment self-expression and develop auyonomy within the world.
 
 Technology has huge capacity to both help or hinder marginalised and minoritised people. The intent of this space is to make it as positive a force as possible. The DDLL exists to support a vibrant *digital social innovation ecosystem*, involving a wider range of stakeholders to co-produce solutions to complex, messy problems that go beyond technology.
 
-Following the model of many Open Source projects, we are hosted on Github, and we have a Discord server where you can meet and chat with other members. This website itself is hosted on Github Pages, and we welcome PRs to add further content to it.
+Applying purpose to technology considers it as a tool to be moulded and aadapted to individualised needs using Open Source for its transparency, privacy, community collaboration, interoperability and freedom.
 
 ## What's the problem here?
 
-There are two interdependent problems which are limiting digital diversity:
+There are three interdependent problems which are limiting digital diversity:
 
-- It's very hard to realise the potential digital technology has to improve access for marginalised and minoritised people.
-- It's very hard for organisations building and using digital technology to access the unique talent that marginalised and minoritised people offer.
+- There is a gap between unmet needs and how technology is developed and delivered mirrored by understanding the audfience.
+- There is a perception that targeting the margins is niche, which undermines predominant incentives on delivering profits.
+- Applying an insider's view of the audience to develop inclusive innovation requires inclusive access to resources needed.
 
-By addressing these two issues together, we will support a virtuous cycle of improved accessibility to services, and improved participation in the creation of those services.
+By addressing these three issues together, we will support a virtuous cycle of improved accessibility to services, and improved participation in the creation of those services with diffewrent incentives to do so.
 
 ## Why a "living lab"?
 
