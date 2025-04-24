@@ -41,8 +41,7 @@ In the long term the DDLL will look many different groups and the various issues
 
 We're welcome to any offers to get involved in any way you would like. Some possible examples:
 
-- Contribute to one of the software projects withing DDLL
-- Contribute to the documentation, share a post, or participate in the Discord conversation
+- Contribute to one of the software projects within DDLL
 - Volunteer for a role in organising the work the DDLL does
 - Suggest a project you would like to run within DDLL
 - Sponsor DDLL itself, or a project within it
