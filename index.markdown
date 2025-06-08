@@ -5,6 +5,8 @@
 layout: home
 ---
 
+# Ensuring digital technology can serve the underserved through lived experience and understanding overlooked needs in their environment
+
 The Digital Diversity Living Lab is a place to research the micro-level of individual subjective experience, the macro-level of their context and problem domain as systems and apply this to co-design of digital products and services to augment self-expression and develop auyonomy within the world.
 
 Technology has huge capacity to both help or hinder marginalised and minoritised people. The intent of this space is to make it as positive a force as possible. The DDLL exists to support a vibrant *digital social innovation ecosystem*, involving a wider range of stakeholders to co-produce solutions to complex, messy problems that go beyond technology.
