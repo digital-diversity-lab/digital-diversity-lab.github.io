@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## Ensuring digital technology can serve the underserved through lived experience and understanding overlooked needs in their environment
+<!-- ## Ensuring digital technology can serve the underserved through lived experience and understanding overlooked needs in their environment -->
 
 The Digital Diversity Living Lab is a place to research the micro-level of individual subjective experience, the macro-level of their context and problem domain as systems and apply this to co-design of digital products and services to augment self-expression and develop auyonomy within the world.
 
@@ -36,6 +36,10 @@ We are building a pluralistic, interoperable, platform-agnostic commons for digi
 We are particularly focused on better collaboration and interoperability, as we've identified that as one of the major barriers to digital engagement and co-production. In the longer run, we hope to address wider issues including accessible design, usability and funding.
 
 In the long term the DDLL will look many different groups and the various issues they face. We are starting with neurodiversity in the profession because that matches the skills and lived experience of the founders.
+
+## Co-designing for disability: A self-determination framework
+
+[Co-designing for disability: A self-determination framework](co-designing-for-disability-a-self-determination-framework.md)
 
 ## How can I get involved?
 
