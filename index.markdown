@@ -37,7 +37,9 @@ We are particularly focused on better collaboration and interoperability, as we'
 
 In the long term the DDLL will look many different groups and the various issues they face. We are starting with neurodiversity in the profession because that matches the skills and lived experience of the founders.
 
-## Co-designing for disability: A self-determination framework
+## Recent work
+
+### ACM FaaCT 25: Co-designing for disability: A self-determination framework
 
 [Co-designing for disability: A self-determination framework](co-designing-for-disability-a-self-determination-framework.md)
 
