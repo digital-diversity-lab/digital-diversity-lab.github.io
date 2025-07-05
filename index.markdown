@@ -43,6 +43,10 @@ In the long term the DDLL will look many different groups and the various issues
 
 [Co-designing for disability: A self-determination framework](co-designing-for-disability-a-self-determination-framework.md)
 
+### London Tech Week 25 Fringe: Have you tried not being you?
+
+[Have you tried not being you](have-you-tried-not-being-you.md)
+
 ## How can I get involved?
 
 We're welcome to any offers to get involved in any way you would like. Some possible examples:
