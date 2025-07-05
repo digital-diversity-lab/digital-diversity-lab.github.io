@@ -1,3 +1,12 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+<!-- ## Ensuring digital technology can serve the underserved through lived experience and understanding overlooked needs in their environment -->
+
 # Co-designing for Disability: A Self Determination Framework
 
 Technology promises us a huge amount. Better accessibility, greater participation, and fewer disabling barriers. Yet, many products fail to live up to this. Uninformed by lived experience, they fail to understand the real problem. At best, they are a distraction, and at worst they can be actively harmful.
