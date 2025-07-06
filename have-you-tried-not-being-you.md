@@ -2,7 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+title: "Have You Tried Not Being You?"
+permalink: /have-you-tried-not-being-you
 ---
 
 <!-- ## Ensuring digital technology can serve the underserved through lived experience and understanding overlooked needs in their environment -->
