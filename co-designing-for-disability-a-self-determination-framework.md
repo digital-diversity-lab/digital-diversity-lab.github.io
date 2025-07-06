@@ -2,7 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+title: "co-designing-for-disability"
+permalink: /co-designing-for-disability
 ---
 
 <!-- ## Ensuring digital technology can serve the underserved through lived experience and understanding overlooked needs in their environment -->
