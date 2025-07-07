@@ -30,7 +30,7 @@ header_pages:
   - about.md
 
 # Build settings
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
 
