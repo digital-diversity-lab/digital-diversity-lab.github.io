@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "co-designing-for-disability"
+# title: "co-designing-for-disability"
 permalink: /co-designing-for-disability
 ---
 

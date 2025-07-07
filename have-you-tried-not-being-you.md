@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "Have You Tried Not Being You?"
+# title: "Have You Tried Not Being You?"
 permalink: /have-you-tried-not-being-you
 ---
 
