@@ -19,8 +19,6 @@ How Self Determination can help us understand where technology can best support 
 How it’s vital that the tools we create support autonomy, competence, and connectedness.
 What design approaches are they using to support Self Determination in their own work.
 
-If you’re interested in accessibility, adaptive design, and building technology that makes the world a better place, then please join us.
+If you’re interested in accessibility, adaptive design, and building technology that makes the world a better place, then please have a look.
 
-```
-(<iframe width="560" height="315" src="https://mediacms-ddll-u20252.vm.elestio.app/embed?m=7pgKXUIAa" frameborder="0" allowfullscreen></iframe>)
-```
+[Video link](https://mediacms-ddll-u20252.vm.elestio.app/view?m=7pgKXUIAa)
