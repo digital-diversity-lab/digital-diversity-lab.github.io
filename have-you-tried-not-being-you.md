@@ -21,4 +21,6 @@ What design approaches are they using to support Self Determination in their own
 
 If you’re interested in accessibility, adaptive design, and building technology that makes the world a better place, then please have a look.
 
-[Video link](https://mediacms-ddll-u20252.vm.elestio.app/view?m=7pgKXUIAa)
+[MediaCMS Video link](https://mediacms-ddll-u20252.vm.elestio.app/view?m=7pgKXUIAa)  
+[PeerTube Video Link](https://peertube-ddll-u20252.vm.elestio.app/w/nyxSWvjPctsJemJGfqySjM)
+
