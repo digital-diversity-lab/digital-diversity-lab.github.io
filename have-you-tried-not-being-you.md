@@ -31,7 +31,7 @@ Presenters: [Marc Goblot](mailto:marcgoblot@digitaldiversitylab.org) [Marissa El
 
 Self-determination theory (SDT) focuses on motivation and what drives people to do what they want to do\[1\]. The framework breaks down into three core psychological needs that technology can either support or undermine: **autonomy**, **competence**, and **connectedness**\[1\].
 
-**Autonomy: Control and Choice**
+### Autonomy: Control and Choice
 
 Autonomy involves being able to make your own decisions and work in your own way\[1\]. Technology presents significant trade-offs in this area:
 
@@ -45,7 +45,7 @@ Autonomy involves being able to make your own decisions and work in your own way
 - Personalized feeds on websites that claim customization but "always somehow adding in its own agenda" rather than giving users control\[1\]  
 - The common pattern where technology "lets you do more in the day to day, but it only lets you do what the designer or the company delivering it wants you to do"\[1\]
 
-**Competence: Ability and Mastery**
+### Competence: Ability and Mastery
 
 Competence focuses on being able to do what you want without barriers, and having the ability to achieve your goals\[1\].
 
@@ -67,7 +67,7 @@ Competence focuses on being able to do what you want without barriers, and havin
 - Sensory-sensitive interface design\[1\]  
 - Predictive support that acknowledges different productive times throughout the day\[1\]
 
-## **Connectedness: Relationships and Meaning**
+### Connectedness: Relationships and Meaning
 
 Connectedness involves working in line with others and connecting with the broader community\[1\].
 
@@ -83,7 +83,7 @@ Connectedness involves working in line with others and connecting with the broad
 - Users actively avoid "nasty and evil" platforms like Facebook/Meta in favor of open source alternatives like Mastodon and Matrix\[1\]  
 - These alternatives "feel more genuine" because "people are there because they want to be" rather than due to corporate algorithms\[1\]
 
-## **Five Key Design Patterns***
+## Five Key Design Patterns
 
 The webinar identified five design patterns for implementing SDT principles:
 
