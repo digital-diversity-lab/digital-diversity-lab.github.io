@@ -142,3 +142,10 @@ The framework provides a systematic way to evaluate whether technology truly emp
 - [Technology to facilitate leadership and self-advocacy by persons with disabilities](https://easpd.eu/news-detail/technology-to-facilitate-leadership-and-self-advocacy-by-persons-with-disabilities/)
 - [Wired differently: Neurodivergence in the digital age | Mental Health America](https://mhanational.org/calendar/wired-differently-neurodivergence-in-the-digital-age/)
 - [Embracing Neurodiversity An Introduction to Assistive Technology Webinar](https://www.youtube.com/watch?v=z-ag7FuGb3w)
+
+## What you can do, find out more, how you can get involved, if interested, engage with us:
+
+* GitHub community \- Open access collaboration for diverse needs and cultures. Let’s make Universal Digital Public Goods. Follow us on [https://github.com/digital-diversity-lab](https://github.com/digital-diversity-lab)
+* Mailing list / group \- Join expanding community and communication tools to build collaborations globally. [info@digitaldiversitylab.org](mailto:info@digitaldiversitylab.org) \- More to come\!  
+* Amplify \- change mindsets through resonant and collective voices. Check out inclusive innovation via Amplify. [Amplify: The Inclusive Innovation Collective \- Diversily](https://www.diversily.com/amplify/)
+* Say hi\! [https://www.linkedin.com/in/marcgoblot/](https://www.linkedin.com/in/marcgoblot/)
