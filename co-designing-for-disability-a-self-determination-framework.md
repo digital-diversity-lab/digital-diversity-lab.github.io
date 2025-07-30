@@ -52,7 +52,8 @@ Tech For Disability at [https://techfordisability.org](https://techfordisability
 [Theory –](https://selfdeterminationtheory.org/theory/) [selfdeterminationtheory.org](http://selfdeterminationtheory.org)  
 SDT and Autism \- [https://neuroclastic.com/aba-and-self-determination/](https://neuroclastic.com/aba-and-self-determination/)  
 [(PDF) Social Innovation Living Labs as Platforms to Co-design Social Innovations](https://www.researchgate.net/publication/340391475_Social_Innovation_Living_Labs_as_Platforms_to_Co-design_Social_Innovations)  
-[2016\_DeHaan\_etal\_J\_Happiness\_Stud.pdf](https://drive.google.com/file/d/17NJJg4aPpLBi158oooc5jGA_zEAgP3tg/view?usp=drive_link)\- This looks at hybrid approach to Capability and Self-determination theories.  
+[2016\_DeHaan\_etal\_J\_Happiness\_Stud.pdf](https://drive.google.com/file/d/17NJJg4aPpLBi158oooc5jGA_zEAgP3tg/view?usp=drive_link)\- This looks at hybrid approach to Capability and Self-determination theories.
+
 Phenomenological research methods from Ned Redmore:  
 Ben Simmons in this regard:
 
