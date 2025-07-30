@@ -23,7 +23,7 @@ If you’re interested in accessibility, adaptive design, and building technolog
 
 Presenters: [Marc Goblot](mailto:marcgoblot@digitaldiversitylab.org) [Marissa Ellis](mailto:marissa@diversily.com) [Matthew Bellringer](mailto:matthew@matthewbellringer.com)
 
-[PeerTube Video Link](https://peertube-ddll-u20252.vm.elestio.app/w/nyxSWvjPctsJemJGfqySjM)
+[YouTube Link](https://youtu.be/5sBOpD1GUWM)
 <!-- <iframe title="Have you tried not being you?" width="560" height="315" src="https://peertube-ddll-u20252.vm.elestio.app/videos/embed/ae9b5bb1-dbba-4084-8d8c-cda426a30389" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe> -->
 <!-- <iframe width="560" height="315" src="https://mediacms-ddll-u20252.vm.elestio.app/embed?m=7pgKXUIAa" frameborder="0" allowfullscreen></iframe> -->
 
