@@ -136,14 +136,8 @@ The framework provides a systematic way to evaluate whether technology truly emp
 - [Supporting people with cognitive disabilities to self-determination](https://www.youtube.com/watch?v=dCJyQu3uOdA)
 - [Applying Self-Determination Theory to Support Neurodiverse 18](https://www.linkedin.com/pulse/applying-self-determination-theory-support-holistic-approach-redman-yhp8e)
 - [ICT-enabled self-determination, disability and young people](https://openaccess.wgtn.ac.nz/articles/journal_contribution/ICT-enabled_self-determination_disability_and_young_people/19679340/1)
-- [Beyond Access](https://minds.wisconsin.edu/bitstream/handle/1793/80185/052820%20C1%20Rudinger%20final%20PDF.pdf?sequence=3&isAllowed=y)
-- [“Motivation, Technology and Health Behavior Change” webinar with...](https://selfdeterminationtheory.org/video/isbnpa-webinar-sig-theories-of-motivation-motivation-technology-and-health-behavior-change/)
-- [PDF\] A Neurodivergent Lens: Recommended Practices for Neuroinclusivity](https://carleton.ca/accessibility-institute/wp-content/uploads/Final-Research-Report_EN-English.pdf)
-- [Technology to facilitate leadership and self-advocacy by persons with disabilities](https://easpd.eu/news-detail/technology-to-facilitate-leadership-and-self-advocacy-by-persons-with-disabilities/)
-- [Wired differently: Neurodivergence in the digital age | Mental Health America](https://mhanational.org/calendar/wired-differently-neurodivergence-in-the-digital-age/)
-- [Embracing Neurodiversity An Introduction to Assistive Technology Webinar](https://www.youtube.com/watch?v=z-ag7FuGb3w)
 
-## What you can do, find out more, how you can get involved, if interested, engage with us:
+## What you can do, find out more, how you can get involved, engage with us:
 
 * GitHub community \- Open access collaboration for diverse needs and cultures. Let’s make Universal Digital Public Goods. Follow us on [https://github.com/digital-diversity-lab](https://github.com/digital-diversity-lab)
 * Mailing list / group \- Join expanding community and communication tools to build collaborations globally. [info@digitaldiversitylab.org](mailto:info@digitaldiversitylab.org) \- More to come\!  
