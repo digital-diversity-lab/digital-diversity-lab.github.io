@@ -25,7 +25,9 @@ Presenters: [Marc Goblot](mailto:marcgoblot@digitaldiversitylab.org) [Marissa El
 
 [PeerTube Video Link](https://peertube-ddll-u20252.vm.elestio.app/w/nyxSWvjPctsJemJGfqySjM)
 <!-- <iframe title="Have you tried not being you?" width="560" height="315" src="https://peertube-ddll-u20252.vm.elestio.app/videos/embed/ae9b5bb1-dbba-4084-8d8c-cda426a30389" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe> -->
-<iframe width="560" height="315" src="https://mediacms-ddll-u20252.vm.elestio.app/embed?m=7pgKXUIAa" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://mediacms-ddll-u20252.vm.elestio.app/embed?m=7pgKXUIAa" frameborder="0" allowfullscreen></iframe> -->
+
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/474512/469789ec-cc46-42e6-af39-61f01519a07c?autoplay=true&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
 ## Self-Determination Theory Framework
 
